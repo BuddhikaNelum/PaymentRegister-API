@@ -1,0 +1,14 @@
+D:\Education\Git Projects\PaymentRegister-API\PaymentRegister-API\bin\Debug\netcoreapp2.2\PaymentRegister-API.deps.json
+D:\Education\Git Projects\PaymentRegister-API\PaymentRegister-API\bin\Debug\netcoreapp2.2\PaymentRegister-API.runtimeconfig.json
+D:\Education\Git Projects\PaymentRegister-API\PaymentRegister-API\bin\Debug\netcoreapp2.2\PaymentRegister-API.runtimeconfig.dev.json
+D:\Education\Git Projects\PaymentRegister-API\PaymentRegister-API\bin\Debug\netcoreapp2.2\PaymentRegister-API.dll
+D:\Education\Git Projects\PaymentRegister-API\PaymentRegister-API\bin\Debug\netcoreapp2.2\PaymentRegister-API.pdb
+D:\Education\Git Projects\PaymentRegister-API\PaymentRegister-API\obj\Debug\netcoreapp2.2\PaymentRegister-API.csprojAssemblyReference.cache
+D:\Education\Git Projects\PaymentRegister-API\PaymentRegister-API\obj\Debug\netcoreapp2.2\PaymentRegister-API.csproj.CoreCompileInputs.cache
+D:\Education\Git Projects\PaymentRegister-API\PaymentRegister-API\obj\Debug\netcoreapp2.2\PaymentRegister-API.RazorAssemblyInfo.cache
+D:\Education\Git Projects\PaymentRegister-API\PaymentRegister-API\obj\Debug\netcoreapp2.2\PaymentRegister-API.RazorAssemblyInfo.cs
+D:\Education\Git Projects\PaymentRegister-API\PaymentRegister-API\obj\Debug\netcoreapp2.2\PaymentRegister-API.AssemblyInfoInputs.cache
+D:\Education\Git Projects\PaymentRegister-API\PaymentRegister-API\obj\Debug\netcoreapp2.2\PaymentRegister-API.AssemblyInfo.cs
+D:\Education\Git Projects\PaymentRegister-API\PaymentRegister-API\obj\Debug\netcoreapp2.2\PaymentRegister-API.RazorTargetAssemblyInfo.cache
+D:\Education\Git Projects\PaymentRegister-API\PaymentRegister-API\obj\Debug\netcoreapp2.2\PaymentRegister-API.dll
+D:\Education\Git Projects\PaymentRegister-API\PaymentRegister-API\obj\Debug\netcoreapp2.2\PaymentRegister-API.pdb
